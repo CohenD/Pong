@@ -3,7 +3,7 @@ package pong2;
 public class Main {
 
     public static void main(String[] args) {
-        new PongApp();
+        new PongApp();   
     }
 
 }
